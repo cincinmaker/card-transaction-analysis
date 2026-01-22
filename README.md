@@ -15,9 +15,15 @@ management information for stakeholders.
 - pandas
 - Jupyter Notebook
 
-### Use Case
-This analysis simulates reporting and risk insight generation in a banking
-and financial services environment.
+### KPI Summary (Sample Reporting View)
+
+Based on a sample of 100,000 transactions, the following operational risk
+metrics were produced:
+
+- Total Transactions: 100,000
+- Failed Transactions: 1,552
+- Failure Rate: 1.55%
+- Refund Transactions: 5,201
 
 ### Data Disclaimer
 The dataset used in this project is synthetic and anonymised and is used
