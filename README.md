@@ -20,6 +20,6 @@ This analysis simulates reporting and risk insight generation in a banking
 and financial services environment.
 
 ### Data Disclaimer
-The dataset used in this project is **synthetic and anonymised** and is used
-**for learning and demonstration purposes only**. It does not represent real
-customer, merchant, or transaction data.
+The dataset used in this project is synthetic and anonymised and is used
+for learning and demonstration purposes only. It does not represent real
+customer, merchant or transaction data.
