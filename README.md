@@ -24,6 +24,7 @@ metrics were produced:
 - Failed Transactions: 1,552
 - Failure Rate: 1.55%
 - Refund Transactions: 5,201
+- Refund Rate: 5.20%
 
 ### Data Disclaimer
 The dataset used in this project is synthetic and anonymised and is used
