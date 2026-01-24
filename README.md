@@ -1,6 +1,6 @@
 ## Card Transaction Risk & Reporting Analysis
 
-This project demonstrates how Python can be used to analyse large-scale (over 12m transactions) financial transaction data and produce operational risk KPIs and management information for stakeholders.
+This project demonstrates how Python can be used to analyse large-scale financial transaction data (over 12m transactions) and produce operational risk KPIs and management information for stakeholders.
 
 ### Key Features
 - Analysed 100k+ card transactions using pandas
