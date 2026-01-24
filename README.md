@@ -1,8 +1,6 @@
 ## Card Transaction Risk & Reporting Analysis
 
-This project demonstrates how Python can be used to analyse large-scale
-financial transaction data and produce operational risk KPIs and
-management information for stakeholders.
+This project demonstrates how Python can be used to analyse large-scale (over 12m transactions) financial transaction data and produce operational risk KPIs and management information for stakeholders.
 
 ### Key Features
 - Analysed 100k+ card transactions using pandas
@@ -17,8 +15,7 @@ management information for stakeholders.
 
 ### KPI Summary (Sample Reporting View)
 
-Based on a sample of 100,000 transactions, the following operational risk
-metrics were produced:
+Based on a sample of 100,000 transactions, the following operational risk metrics were produced:
 
 - Total Transactions: 100,000
 - Failed Transactions: 1,552
@@ -27,6 +24,4 @@ metrics were produced:
 - Refund Rate: 5.20%
 
 ### Data Disclaimer
-The dataset used in this project is synthetic and anonymised and is used
-for learning and demonstration purposes only. It does not represent real
-customer, merchant or transaction data.
+The dataset used in this project is synthetic and anonymised and is used for learning and demonstration purposes only. It does not represent real customer, merchant or transaction data.
