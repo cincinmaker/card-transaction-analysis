@@ -17,7 +17,6 @@ This project demonstrates how Python can be used to analyse large-scale financia
 
 Based on a sample of 100,000 transactions, the following operational risk metrics were produced:
 
-- Total Transactions: 100,000
 - Failed Transactions: 1,552
 - Failure Rate: 1.55%
 - Refund Transactions: 5,201
